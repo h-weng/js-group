@@ -1,2 +1,2 @@
 # js-group
-Materials for Amce-Tutors JavaScript group
+Course material for Amce-Tutors JavaScript group
